@@ -207,7 +207,27 @@ outputs/
   chart6_weekly_trend.png      ← Trend line chart
   chart7_heatmap.png           ← Region × Option heatmap
 ```
+---
+## Visual Analysis Results
 
+### Overall Distribution
+| Primary Results | Participation Breakdown |
+| :---: | :---: |
+| ![Overall Bar Chart](images/chart1_overall_bar.png) | ![Donut Chart](images/chart2_donut.png) |
+| *Horizontal Bar Chart* | *Donut Distribution* |
+
+### Demographic & Regional Insights
+* **Regional Comparison:**
+  ![Region Comparison](images/chart3_region_grouped.png)
+* **Age & Gender Analysis:**
+  ![Age Stacked Bar](images/chart4_age_stacked.png)
+  ![Gender Clustered Bar](images/chart5_gender.png)
+
+### Trends & Correlations
+* **Weekly Trend:**
+  ![Trend Line](images/chart6_weekly_trend.png)
+* **Regional Heatmap (Option vs Region):**
+  ![Heatmap](images/chart7_heatmap.png)
 ---
 
 ## 🔮 Future Improvements
