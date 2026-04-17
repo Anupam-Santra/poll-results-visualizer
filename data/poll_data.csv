@@ -1,0 +1,501 @@
+respondent_id,date,question,selected_option,region,age_group,gender,education,employment
+R0001,2024-03-15,Which option do you prefer for the upcoming election?,,West,51+,Female,Bachelor's,Employed
+R0002,2024-01-30,Which option do you prefer for the upcoming election?,Option D,East,51+,Female,Master's,Employed
+R0003,2024-02-18,Which option do you prefer for the upcoming election?,Option B,South,18-25,Male,Bachelor's,Employed
+R0004,2024-02-16,Which option do you prefer for the upcoming election?,Option B,East,36-50,Male,Bachelor's,Employed
+R0005,2024-03-13,Which option do you prefer for the upcoming election?,Option C,East,26-35,Non-binary,Bachelor's,Self-employed
+R0006,2024-03-24,Which option do you prefer for the upcoming election?,Option A,South,51+,Non-binary,Master's,Employed
+R0007,2024-02-05,Which option do you prefer for the upcoming election?,Option D,West,26-35,Male,Bachelor's,Employed
+R0008,2024-03-03,Which option do you prefer for the upcoming election?,Option A,South,36-50,Male,Bachelor's,Employed
+R0009,2024-03-12,Which option do you prefer for the upcoming election?,Option D,South,36-50,Female,Master's,Student
+R0010,2024-01-26,Which option do you prefer for the upcoming election?,Option D,West,18-25,Male,Bachelor's,Employed
+R0011,2024-03-11,Which option do you prefer for the upcoming election?,Option A,North,26-35,Female,High School,Self-employed
+R0012,2024-02-04,Which option do you prefer for the upcoming election?,Option C,North,36-50,Male,High School,Self-employed
+R0013,2024-03-12,Which option do you prefer for the upcoming election?,Option C,East,36-50,Male,Bachelor's,Employed
+R0014,2024-03-26,Which option do you prefer for the upcoming election?,Option C,West,26-35,Male,Bachelor's,Employed
+R0015,2024-01-14,Which option do you prefer for the upcoming election?,Option C,East,36-50,Male,PhD,Self-employed
+R0016,2024-02-21,Which option do you prefer for the upcoming election?,Option A,East,26-35,Male,High School,Employed
+R0017,2024-02-05,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Female,High School,Employed
+R0018,2024-02-26,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Male,High School,Unemployed
+R0019,2024-03-29,Which option do you prefer for the upcoming election?,Option B,Central,51+,Female,High School,Self-employed
+R0020,2024-03-10,Which option do you prefer for the upcoming election?,Option A,North,26-35,Female,High School,Employed
+R0021,2024-02-01,Which option do you prefer for the upcoming election?,Option D,East,26-35,Male,High School,Employed
+R0022,2024-01-03,Which option do you prefer for the upcoming election?,Option C,North,26-35,Male,Bachelor's,Employed
+R0023,2024-03-27,Which option do you prefer for the upcoming election?,Option B,North,18-25,Non-binary,Bachelor's,Unemployed
+R0024,2024-03-10,Which option do you prefer for the upcoming election?,Option B,Central,26-35,Female,Bachelor's,Employed
+R0025,2024-03-10,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,High School,Self-employed
+R0026,2024-01-03,Which option do you prefer for the upcoming election?,Option C,East,36-50,Female,High School,Employed
+R0027,2024-03-11,Which option do you prefer for the upcoming election?,Option B,West,26-35,Male,Master's,Self-employed
+R0028,2024-02-26,Which option do you prefer for the upcoming election?,Option C,West,51+,Male,Bachelor's,Self-employed
+R0029,2024-02-29,Which option do you prefer for the upcoming election?,Option A,North,18-25,Female,Bachelor's,Employed
+R0030,2024-01-09,Which option do you prefer for the upcoming election?,Option C,North,18-25,Male,Master's,Unemployed
+R0031,2024-01-24,Which option do you prefer for the upcoming election?,Option C,North,26-35,Female,Master's,Self-employed
+R0032,2024-03-29,Which option do you prefer for the upcoming election?,Option A,West,18-25,Male,Master's,Student
+R0033,2024-03-01,Which option do you prefer for the upcoming election?,,East,51+,Male,Bachelor's,Employed
+R0034,2024-01-08,Which option do you prefer for the upcoming election?,Option B,North,18-25,Male,Bachelor's,Employed
+R0035,2024-01-30,Which option do you prefer for the upcoming election?,Option A,East,36-50,Female,High School,Employed
+R0036,2024-03-04,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Female,Bachelor's,Employed
+R0037,2024-01-17,Which option do you prefer for the upcoming election?,Option C,North,18-25,Female,Bachelor's,Employed
+R0038,2024-01-24,Which option do you prefer for the upcoming election?,Option A,West,51+,Female,Master's,Employed
+R0039,2024-03-25,Which option do you prefer for the upcoming election?,Option A,Central,26-35,Non-binary,PhD,Self-employed
+R0040,2024-02-15,Which option do you prefer for the upcoming election?,Option C,North,26-35,Male,Bachelor's,Unemployed
+R0041,2024-01-17,Which option do you prefer for the upcoming election?,Option C,South,36-50,Non-binary,High School,Employed
+R0042,2024-02-19,Which option do you prefer for the upcoming election?,Option B,North,18-25,Female,Bachelor's,Employed
+R0043,2024-01-08,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,High School,Student
+R0044,2024-02-20,Which option do you prefer for the upcoming election?,Option C,West,51+,Male,Bachelor's,Employed
+R0045,2024-02-11,Which option do you prefer for the upcoming election?,Option A,North,18-25,Non-binary,Master's,Self-employed
+R0046,2024-03-08,Which option do you prefer for the upcoming election?,Option C,East,18-25,Female,Master's,Employed
+R0047,2024-01-30,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Male,Bachelor's,Employed
+R0048,2024-03-02,Which option do you prefer for the upcoming election?,Option A,East,36-50,Male,Bachelor's,Employed
+R0049,2024-02-17,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Master's,Employed
+R0050,2024-01-22,Which option do you prefer for the upcoming election?,Option B,North,36-50,Male,PhD,Student
+R0051,2024-03-18,Which option do you prefer for the upcoming election?,Option A,Central,26-35,Male,Bachelor's,Self-employed
+R0052,2024-03-30,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,Master's,Student
+R0053,2024-01-10,Which option do you prefer for the upcoming election?,Option B,South,26-35,Male,High School,Employed
+R0054,2024-03-09,Which option do you prefer for the upcoming election?,Option B,Central,51+,Male,High School,Unemployed
+R0055,2024-03-24,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Male,Bachelor's,Employed
+R0056,2024-03-07,Which option do you prefer for the upcoming election?,Option D,West,26-35,Female,Bachelor's,Employed
+R0057,2024-01-02,Which option do you prefer for the upcoming election?,Option A,North,51+,Female,High School,Employed
+R0058,2024-03-30,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Female,High School,Employed
+R0059,2024-02-05,Which option do you prefer for the upcoming election?,Option D,South,26-35,Female,Bachelor's,Employed
+R0060,2024-02-18,Which option do you prefer for the upcoming election?,Option C,North,36-50,Male,High School,Self-employed
+R0061,2024-02-06,Which option do you prefer for the upcoming election?,Option D,East,26-35,Male,Master's,Employed
+R0062,2024-03-02,Which option do you prefer for the upcoming election?,Option D,West,26-35,Female,Master's,Employed
+R0063,2024-01-19,Which option do you prefer for the upcoming election?,Option A,West,51+,Male,Master's,Employed
+R0064,2024-01-16,Which option do you prefer for the upcoming election?,Option B,West,26-35,Female,Bachelor's,Employed
+R0065,2024-01-16,Which option do you prefer for the upcoming election?,Option D,Central,18-25,Female,Bachelor's,Employed
+R0066,2024-02-04,Which option do you prefer for the upcoming election?,Option A,North,18-25,Female,PhD,Unemployed
+R0067,2024-01-07,Which option do you prefer for the upcoming election?,Option B,Central,26-35,Male,High School,Self-employed
+R0068,2024-02-07,Which option do you prefer for the upcoming election?,Option B,Central,18-25,Male,Master's,Employed
+R0069,2024-02-14,Which option do you prefer for the upcoming election?,Option D,East,36-50,Female,Master's,Employed
+R0070,2024-03-14,Which option do you prefer for the upcoming election?,Option C,West,26-35,Female,Bachelor's,Employed
+R0071,2024-01-20,Which option do you prefer for the upcoming election?,Option B,South,26-35,Male,Bachelor's,Employed
+R0072,2024-03-03,Which option do you prefer for the upcoming election?,Option A,West,36-50,Female,Master's,Student
+R0073,2024-02-01,Which option do you prefer for the upcoming election?,Option A,West,26-35,Female,High School,Unemployed
+R0074,2024-01-19,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,Bachelor's,Unemployed
+R0075,2024-02-23,Which option do you prefer for the upcoming election?,Option D,West,18-25,Male,High School,Employed
+R0076,2024-03-16,Which option do you prefer for the upcoming election?,Option D,East,51+,Male,Bachelor's,Unemployed
+R0077,2024-01-28,Which option do you prefer for the upcoming election?,Option A,West,26-35,Male,Bachelor's,Employed
+R0078,2024-03-24,Which option do you prefer for the upcoming election?,,West,26-35,Male,Bachelor's,Employed
+R0079,2024-03-09,Which option do you prefer for the upcoming election?,Option D,Central,36-50,Male,Master's,Self-employed
+R0080,2024-02-02,Which option do you prefer for the upcoming election?,Option A,North,26-35,Female,Master's,Employed
+R0081,2024-02-28,Which option do you prefer for the upcoming election?,Option B,North,26-35,Non-binary,Bachelor's,Student
+R0082,2024-02-24,Which option do you prefer for the upcoming election?,Option A,East,36-50,Male,High School,Employed
+R0083,2024-02-06,Which option do you prefer for the upcoming election?,Option C,West,36-50,Non-binary,PhD,Student
+R0084,2024-03-17,Which option do you prefer for the upcoming election?,Option D,South,51+,Male,Bachelor's,Employed
+R0085,2024-01-26,Which option do you prefer for the upcoming election?,,West,18-25,Female,Bachelor's,Employed
+R0086,2024-01-05,Which option do you prefer for the upcoming election?,Option B,South,26-35,Female,Bachelor's,Self-employed
+R0087,2024-03-06,Which option do you prefer for the upcoming election?,Option C,East,26-35,Male,High School,Self-employed
+R0088,2024-01-30,Which option do you prefer for the upcoming election?,Option C,East,18-25,Male,High School,Employed
+R0089,2024-01-30,Which option do you prefer for the upcoming election?,Option D,East,18-25,Female,Bachelor's,Employed
+R0090,2024-03-24,Which option do you prefer for the upcoming election?,Option B,South,51+,Female,High School,Unemployed
+R0091,2024-01-23,Which option do you prefer for the upcoming election?,Option A,Central,51+,Female,Bachelor's,Student
+R0092,2024-03-07,Which option do you prefer for the upcoming election?,Option D,East,18-25,Female,High School,Employed
+R0093,2024-02-11,Which option do you prefer for the upcoming election?,Option A,East,36-50,Male,High School,Employed
+R0094,2024-02-18,Which option do you prefer for the upcoming election?,Option D,Central,18-25,Female,Bachelor's,Employed
+R0095,2024-03-03,Which option do you prefer for the upcoming election?,Option A,South,36-50,Male,Master's,Student
+R0096,2024-02-16,Which option do you prefer for the upcoming election?,Option D,Central,18-25,Female,High School,Student
+R0097,2024-01-07,Which option do you prefer for the upcoming election?,Option A,South,36-50,Female,Master's,Employed
+R0098,2024-01-15,Which option do you prefer for the upcoming election?,Option B,East,51+,Female,Bachelor's,Employed
+R0099,2024-02-13,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Bachelor's,Self-employed
+R0100,2024-03-26,Which option do you prefer for the upcoming election?,Option B,North,51+,Female,Bachelor's,Self-employed
+R0101,2024-02-21,Which option do you prefer for the upcoming election?,Option B,South,36-50,Female,Bachelor's,Employed
+R0102,2024-02-22,Which option do you prefer for the upcoming election?,Option D,South,36-50,Male,Bachelor's,Employed
+R0103,2024-01-24,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Male,High School,Employed
+R0104,2024-03-06,Which option do you prefer for the upcoming election?,Option A,North,18-25,Female,Bachelor's,Unemployed
+R0105,2024-02-20,Which option do you prefer for the upcoming election?,Option A,West,51+,Female,Master's,Employed
+R0106,2024-01-26,Which option do you prefer for the upcoming election?,Option A,North,36-50,Female,Bachelor's,Self-employed
+R0107,2024-03-04,Which option do you prefer for the upcoming election?,Option C,West,26-35,Female,High School,Employed
+R0108,2024-01-10,Which option do you prefer for the upcoming election?,Option B,Central,26-35,Female,Bachelor's,Student
+R0109,2024-03-13,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Non-binary,Bachelor's,Self-employed
+R0110,2024-03-09,Which option do you prefer for the upcoming election?,Option A,North,18-25,Male,Bachelor's,Self-employed
+R0111,2024-02-04,Which option do you prefer for the upcoming election?,Option A,West,51+,Male,Master's,Unemployed
+R0112,2024-01-14,Which option do you prefer for the upcoming election?,Option C,North,36-50,Female,Master's,Employed
+R0113,2024-01-04,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,Master's,Student
+R0114,2024-02-20,Which option do you prefer for the upcoming election?,Option A,North,51+,Male,Master's,Employed
+R0115,2024-03-06,Which option do you prefer for the upcoming election?,,Central,26-35,Female,Bachelor's,Employed
+R0116,2024-03-12,Which option do you prefer for the upcoming election?,Option B,Central,51+,Female,High School,Unemployed
+R0117,2024-02-05,Which option do you prefer for the upcoming election?,Option D,South,18-25,Female,Bachelor's,Employed
+R0118,2024-03-26,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Male,High School,Student
+R0119,2024-03-28,Which option do you prefer for the upcoming election?,Option A,South,36-50,Female,Bachelor's,Self-employed
+R0120,2024-01-02,Which option do you prefer for the upcoming election?,Option C,West,26-35,Female,High School,Employed
+R0121,2024-01-11,Which option do you prefer for the upcoming election?,Option B,East,36-50,Female,Bachelor's,Employed
+R0122,2024-03-30,Which option do you prefer for the upcoming election?,Option B,South,26-35,Male,Bachelor's,Employed
+R0123,2024-03-08,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Male,Bachelor's,Student
+R0124,2024-02-20,Which option do you prefer for the upcoming election?,Option B,Central,51+,Female,High School,Student
+R0125,2024-03-30,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,Master's,Employed
+R0126,2024-01-21,Which option do you prefer for the upcoming election?,Option C,West,18-25,Female,Master's,Employed
+R0127,2024-01-25,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Master's,Student
+R0128,2024-02-12,Which option do you prefer for the upcoming election?,Option B,South,51+,Male,Bachelor's,Student
+R0129,2024-03-28,Which option do you prefer for the upcoming election?,Option B,East,26-35,Male,High School,Employed
+R0130,2024-03-11,Which option do you prefer for the upcoming election?,,North,26-35,Female,Bachelor's,Employed
+R0131,2024-02-18,Which option do you prefer for the upcoming election?,Option D,North,51+,Male,Bachelor's,Employed
+R0132,2024-01-30,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,Bachelor's,Self-employed
+R0133,2024-02-16,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Male,Master's,Student
+R0134,2024-01-01,Which option do you prefer for the upcoming election?,Option A,South,26-35,Male,Bachelor's,Student
+R0135,2024-03-27,Which option do you prefer for the upcoming election?,Option B,Central,18-25,Female,Bachelor's,Self-employed
+R0136,2024-03-27,Which option do you prefer for the upcoming election?,Option A,West,51+,Female,Bachelor's,Student
+R0137,2024-01-08,Which option do you prefer for the upcoming election?,Option D,East,26-35,Female,Bachelor's,Student
+R0138,2024-02-06,Which option do you prefer for the upcoming election?,Option D,South,36-50,Non-binary,Bachelor's,Self-employed
+R0139,2024-03-25,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Male,High School,Student
+R0140,2024-03-09,Which option do you prefer for the upcoming election?,Option D,East,18-25,Female,Bachelor's,Student
+R0141,2024-02-06,Which option do you prefer for the upcoming election?,Option D,West,26-35,Female,Bachelor's,Employed
+R0142,2024-03-14,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,PhD,Self-employed
+R0143,2024-02-09,Which option do you prefer for the upcoming election?,Option A,East,51+,Female,Bachelor's,Employed
+R0144,2024-02-27,Which option do you prefer for the upcoming election?,Option D,South,36-50,Male,High School,Self-employed
+R0145,2024-02-10,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Male,High School,Unemployed
+R0146,2024-03-25,Which option do you prefer for the upcoming election?,Option A,South,36-50,Female,Master's,Employed
+R0147,2024-03-11,Which option do you prefer for the upcoming election?,Option C,East,51+,Female,Bachelor's,Student
+R0148,2024-02-23,Which option do you prefer for the upcoming election?,Option A,South,51+,Male,Bachelor's,Employed
+R0149,2024-01-11,Which option do you prefer for the upcoming election?,Option C,East,18-25,Male,Master's,Employed
+R0150,2024-01-22,Which option do you prefer for the upcoming election?,Option C,West,36-50,Male,Bachelor's,Employed
+R0151,2024-03-21,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Male,Bachelor's,Employed
+R0152,2024-01-17,Which option do you prefer for the upcoming election?,Option A,East,36-50,Male,Master's,Employed
+R0153,2024-02-13,Which option do you prefer for the upcoming election?,Option C,North,26-35,Female,Bachelor's,Employed
+R0154,2024-03-01,Which option do you prefer for the upcoming election?,Option D,East,26-35,Female,Bachelor's,Employed
+R0155,2024-01-08,Which option do you prefer for the upcoming election?,Option C,North,51+,Male,High School,Employed
+R0156,2024-01-12,Which option do you prefer for the upcoming election?,Option D,Central,36-50,Female,Bachelor's,Unemployed
+R0157,2024-01-23,Which option do you prefer for the upcoming election?,Option D,East,51+,Female,High School,Student
+R0158,2024-02-17,Which option do you prefer for the upcoming election?,Option A,South,36-50,Female,High School,Student
+R0159,2024-02-28,Which option do you prefer for the upcoming election?,Option B,South,26-35,Female,Master's,Employed
+R0160,2024-01-03,Which option do you prefer for the upcoming election?,Option B,South,36-50,Female,Bachelor's,Student
+R0161,2024-01-04,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Male,Bachelor's,Student
+R0162,2024-03-06,Which option do you prefer for the upcoming election?,Option D,Central,36-50,Female,Bachelor's,Employed
+R0163,2024-02-08,Which option do you prefer for the upcoming election?,Option D,East,51+,Male,Master's,Employed
+R0164,2024-01-10,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,High School,Employed
+R0165,2024-01-30,Which option do you prefer for the upcoming election?,Option B,North,26-35,Female,Master's,Employed
+R0166,2024-03-13,Which option do you prefer for the upcoming election?,Option D,South,26-35,Male,High School,Employed
+R0167,2024-03-10,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,PhD,Self-employed
+R0168,2024-03-03,Which option do you prefer for the upcoming election?,Option B,East,51+,Non-binary,Master's,Employed
+R0169,2024-01-03,Which option do you prefer for the upcoming election?,Option A,Central,51+,Male,High School,Employed
+R0170,2024-03-01,Which option do you prefer for the upcoming election?,Option D,Central,18-25,Non-binary,Master's,Unemployed
+R0171,2024-01-13,Which option do you prefer for the upcoming election?,Option C,East,26-35,Female,Bachelor's,Employed
+R0172,2024-03-07,Which option do you prefer for the upcoming election?,Option D,Central,26-35,Female,Bachelor's,Employed
+R0173,2024-02-09,Which option do you prefer for the upcoming election?,Option C,East,18-25,Female,PhD,Self-employed
+R0174,2024-01-05,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Bachelor's,Employed
+R0175,2024-02-09,Which option do you prefer for the upcoming election?,Option D,South,26-35,Non-binary,High School,Self-employed
+R0176,2024-03-17,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Female,Master's,Employed
+R0177,2024-02-17,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Female,Master's,Employed
+R0178,2024-02-29,Which option do you prefer for the upcoming election?,Option C,North,26-35,Male,PhD,Employed
+R0179,2024-02-22,Which option do you prefer for the upcoming election?,Option A,Central,51+,Female,High School,Self-employed
+R0180,2024-02-15,Which option do you prefer for the upcoming election?,Option A,South,36-50,Female,Bachelor's,Employed
+R0181,2024-02-04,Which option do you prefer for the upcoming election?,Option B,East,51+,Female,Bachelor's,Student
+R0182,2024-02-06,Which option do you prefer for the upcoming election?,Option C,East,36-50,Female,PhD,Employed
+R0183,2024-01-12,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Male,Master's,Unemployed
+R0184,2024-03-04,Which option do you prefer for the upcoming election?,Option C,North,36-50,Male,Bachelor's,Employed
+R0185,2024-02-02,Which option do you prefer for the upcoming election?,Option A,Central,26-35,Female,Bachelor's,Employed
+R0186,2024-01-13,Which option do you prefer for the upcoming election?,Option D,East,26-35,Male,High School,Employed
+R0187,2024-03-18,Which option do you prefer for the upcoming election?,Option A,North,18-25,Female,Bachelor's,Employed
+R0188,2024-01-21,Which option do you prefer for the upcoming election?,Option B,West,36-50,Male,PhD,Employed
+R0189,2024-02-07,Which option do you prefer for the upcoming election?,Option B,Central,36-50,Male,Bachelor's,Unemployed
+R0190,2024-03-20,Which option do you prefer for the upcoming election?,Option C,South,18-25,Male,Bachelor's,Employed
+R0191,2024-02-15,Which option do you prefer for the upcoming election?,Option C,East,51+,Male,Master's,Self-employed
+R0192,2024-01-03,Which option do you prefer for the upcoming election?,Option D,South,36-50,Female,High School,Employed
+R0193,2024-01-09,Which option do you prefer for the upcoming election?,Option C,West,36-50,Female,High School,Employed
+R0194,2024-03-04,Which option do you prefer for the upcoming election?,Option B,North,18-25,Female,Bachelor's,Student
+R0195,2024-02-07,Which option do you prefer for the upcoming election?,Option D,Central,18-25,Male,Bachelor's,Employed
+R0196,2024-03-28,Which option do you prefer for the upcoming election?,Option B,East,36-50,Female,Master's,Employed
+R0197,2024-01-20,Which option do you prefer for the upcoming election?,Option C,North,18-25,Non-binary,High School,Employed
+R0198,2024-03-17,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Bachelor's,Employed
+R0199,2024-01-15,Which option do you prefer for the upcoming election?,Option A,North,51+,Male,Bachelor's,Unemployed
+R0200,2024-01-09,Which option do you prefer for the upcoming election?,Option D,South,18-25,Female,PhD,Employed
+R0201,2024-03-02,Which option do you prefer for the upcoming election?,Option C,North,18-25,Female,Master's,Self-employed
+R0202,2024-02-27,Which option do you prefer for the upcoming election?,Option C,West,26-35,Female,High School,Self-employed
+R0203,2024-01-12,Which option do you prefer for the upcoming election?,Option C,South,26-35,Male,High School,Employed
+R0204,2024-01-08,Which option do you prefer for the upcoming election?,Option B,West,18-25,Female,High School,Unemployed
+R0205,2024-01-22,Which option do you prefer for the upcoming election?,Option C,Central,36-50,Female,Bachelor's,Student
+R0206,2024-02-23,Which option do you prefer for the upcoming election?,Option B,Central,51+,Non-binary,Bachelor's,Employed
+R0207,2024-02-06,Which option do you prefer for the upcoming election?,Option C,North,51+,Male,PhD,Employed
+R0208,2024-02-05,Which option do you prefer for the upcoming election?,Option B,West,36-50,Female,Bachelor's,Employed
+R0209,2024-02-11,Which option do you prefer for the upcoming election?,Option B,South,36-50,Female,Master's,Unemployed
+R0210,2024-01-15,Which option do you prefer for the upcoming election?,Option C,East,36-50,Female,High School,Student
+R0211,2024-03-18,Which option do you prefer for the upcoming election?,Option A,North,18-25,Female,Master's,Employed
+R0212,2024-01-14,Which option do you prefer for the upcoming election?,Option C,South,18-25,Female,Bachelor's,Employed
+R0213,2024-02-04,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Bachelor's,Employed
+R0214,2024-01-31,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,Bachelor's,Employed
+R0215,2024-01-01,Which option do you prefer for the upcoming election?,Option C,East,51+,Male,Bachelor's,Employed
+R0216,2024-02-06,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,Master's,Employed
+R0217,2024-01-06,Which option do you prefer for the upcoming election?,Option D,Central,26-35,Female,Master's,Employed
+R0218,2024-01-26,Which option do you prefer for the upcoming election?,Option A,West,26-35,Male,PhD,Employed
+R0219,2024-02-20,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Male,High School,Employed
+R0220,2024-02-19,Which option do you prefer for the upcoming election?,Option D,West,18-25,Non-binary,PhD,Employed
+R0221,2024-03-24,Which option do you prefer for the upcoming election?,Option B,Central,51+,Male,Bachelor's,Employed
+R0222,2024-01-08,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,Master's,Employed
+R0223,2024-03-30,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Female,High School,Student
+R0224,2024-03-16,Which option do you prefer for the upcoming election?,Option B,East,36-50,Female,Bachelor's,Self-employed
+R0225,2024-02-22,Which option do you prefer for the upcoming election?,Option C,East,51+,Female,Bachelor's,Employed
+R0226,2024-02-02,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Male,High School,Student
+R0227,2024-01-04,Which option do you prefer for the upcoming election?,Option A,North,51+,Female,High School,Employed
+R0228,2024-03-28,Which option do you prefer for the upcoming election?,Option C,East,36-50,Female,Master's,Employed
+R0229,2024-03-29,Which option do you prefer for the upcoming election?,Option B,North,26-35,Female,Bachelor's,Student
+R0230,2024-03-18,Which option do you prefer for the upcoming election?,Option C,North,18-25,Male,High School,Employed
+R0231,2024-01-28,Which option do you prefer for the upcoming election?,Option C,South,36-50,Female,Bachelor's,Unemployed
+R0232,2024-01-15,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Male,High School,Employed
+R0233,2024-01-23,Which option do you prefer for the upcoming election?,Option A,East,36-50,Female,Master's,Unemployed
+R0234,2024-01-15,Which option do you prefer for the upcoming election?,Option D,East,18-25,Female,Master's,Employed
+R0235,2024-02-21,Which option do you prefer for the upcoming election?,Option A,West,51+,Male,High School,Employed
+R0236,2024-01-02,Which option do you prefer for the upcoming election?,Option C,East,51+,Female,Bachelor's,Employed
+R0237,2024-02-08,Which option do you prefer for the upcoming election?,Option C,North,51+,Female,Bachelor's,Employed
+R0238,2024-03-24,Which option do you prefer for the upcoming election?,Option D,Central,18-25,Male,Master's,Employed
+R0239,2024-01-13,Which option do you prefer for the upcoming election?,Option A,West,18-25,Female,Bachelor's,Employed
+R0240,2024-02-11,Which option do you prefer for the upcoming election?,Option B,Central,51+,Male,High School,Student
+R0241,2024-03-14,Which option do you prefer for the upcoming election?,Option B,North,18-25,Female,Bachelor's,Self-employed
+R0242,2024-02-02,Which option do you prefer for the upcoming election?,Option A,North,18-25,Female,Bachelor's,Student
+R0243,2024-01-10,Which option do you prefer for the upcoming election?,Option B,Central,18-25,Male,Bachelor's,Student
+R0244,2024-03-25,Which option do you prefer for the upcoming election?,Option A,North,26-35,Female,Bachelor's,Unemployed
+R0245,2024-02-29,Which option do you prefer for the upcoming election?,Option D,South,26-35,Male,Master's,Student
+R0246,2024-02-05,Which option do you prefer for the upcoming election?,Option A,East,36-50,Male,Master's,Self-employed
+R0247,2024-02-29,Which option do you prefer for the upcoming election?,Option B,East,26-35,Male,Bachelor's,Student
+R0248,2024-03-07,Which option do you prefer for the upcoming election?,Option B,South,36-50,Male,Bachelor's,Employed
+R0249,2024-03-21,Which option do you prefer for the upcoming election?,Option C,West,26-35,Male,Bachelor's,Unemployed
+R0250,2024-03-17,Which option do you prefer for the upcoming election?,Option D,East,36-50,Male,High School,Student
+R0251,2024-01-16,Which option do you prefer for the upcoming election?,Option B,Central,36-50,Male,Bachelor's,Employed
+R0252,2024-01-05,Which option do you prefer for the upcoming election?,Option A,West,26-35,Female,Master's,Unemployed
+R0253,2024-03-22,Which option do you prefer for the upcoming election?,Option C,West,51+,Female,Master's,Employed
+R0254,2024-01-23,Which option do you prefer for the upcoming election?,Option A,North,36-50,Female,High School,Employed
+R0255,2024-03-07,Which option do you prefer for the upcoming election?,Option B,South,26-35,Male,Bachelor's,Employed
+R0256,2024-01-15,Which option do you prefer for the upcoming election?,Option C,West,26-35,Female,Master's,Employed
+R0257,2024-02-04,Which option do you prefer for the upcoming election?,Option C,West,51+,Male,PhD,Employed
+R0258,2024-01-21,Which option do you prefer for the upcoming election?,Option A,South,51+,Female,Master's,Employed
+R0259,2024-01-25,Which option do you prefer for the upcoming election?,,East,18-25,Female,Bachelor's,Unemployed
+R0260,2024-02-23,Which option do you prefer for the upcoming election?,Option C,South,18-25,Female,PhD,Employed
+R0261,2024-01-21,Which option do you prefer for the upcoming election?,Option A,Central,26-35,Female,Master's,Student
+R0262,2024-01-13,Which option do you prefer for the upcoming election?,Option A,South,26-35,Male,High School,Self-employed
+R0263,2024-02-29,Which option do you prefer for the upcoming election?,Option C,West,26-35,Male,Bachelor's,Employed
+R0264,2024-02-19,Which option do you prefer for the upcoming election?,Option B,East,26-35,Female,High School,Employed
+R0265,2024-01-28,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Male,Bachelor's,Employed
+R0266,2024-02-21,Which option do you prefer for the upcoming election?,Option A,East,18-25,Female,Bachelor's,Student
+R0267,2024-03-02,Which option do you prefer for the upcoming election?,Option D,Central,36-50,Female,Bachelor's,Employed
+R0268,2024-01-05,Which option do you prefer for the upcoming election?,Option B,Central,26-35,Female,Bachelor's,Employed
+R0269,2024-02-08,Which option do you prefer for the upcoming election?,Option C,South,18-25,Male,Master's,Student
+R0270,2024-02-14,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Male,High School,Unemployed
+R0271,2024-01-26,Which option do you prefer for the upcoming election?,Option B,West,26-35,Male,Bachelor's,Employed
+R0272,2024-01-29,Which option do you prefer for the upcoming election?,Option C,West,51+,Male,Bachelor's,Self-employed
+R0273,2024-01-01,Which option do you prefer for the upcoming election?,Option B,South,36-50,Female,PhD,Self-employed
+R0274,2024-01-21,Which option do you prefer for the upcoming election?,Option D,South,26-35,Male,Master's,Employed
+R0275,2024-02-29,Which option do you prefer for the upcoming election?,Option C,West,36-50,Female,Master's,Student
+R0276,2024-03-27,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,Bachelor's,Student
+R0277,2024-02-27,Which option do you prefer for the upcoming election?,Option B,East,36-50,Female,High School,Employed
+R0278,2024-01-05,Which option do you prefer for the upcoming election?,Option A,West,26-35,Female,Bachelor's,Employed
+R0279,2024-03-21,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Female,Bachelor's,Employed
+R0280,2024-02-10,Which option do you prefer for the upcoming election?,Option A,North,51+,Female,High School,Employed
+R0281,2024-01-02,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,PhD,Self-employed
+R0282,2024-01-15,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Female,Master's,Student
+R0283,2024-03-29,Which option do you prefer for the upcoming election?,Option B,North,51+,Male,Bachelor's,Employed
+R0284,2024-01-21,Which option do you prefer for the upcoming election?,Option C,South,51+,Male,High School,Employed
+R0285,2024-01-21,Which option do you prefer for the upcoming election?,Option B,East,36-50,Male,Master's,Employed
+R0286,2024-03-15,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Non-binary,Master's,Student
+R0287,2024-02-21,Which option do you prefer for the upcoming election?,Option C,East,26-35,Female,Master's,Employed
+R0288,2024-02-06,Which option do you prefer for the upcoming election?,Option B,East,51+,Female,High School,Employed
+R0289,2024-01-25,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Female,High School,Employed
+R0290,2024-03-05,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Male,High School,Employed
+R0291,2024-02-15,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,Master's,Employed
+R0292,2024-03-30,Which option do you prefer for the upcoming election?,Option A,East,18-25,Male,Master's,Student
+R0293,2024-03-15,Which option do you prefer for the upcoming election?,Option B,South,18-25,Female,High School,Unemployed
+R0294,2024-01-04,Which option do you prefer for the upcoming election?,Option B,East,51+,Male,Bachelor's,Employed
+R0295,2024-01-21,Which option do you prefer for the upcoming election?,Option A,West,36-50,Male,High School,Student
+R0296,2024-01-04,Which option do you prefer for the upcoming election?,Option B,South,36-50,Male,Master's,Employed
+R0297,2024-01-24,Which option do you prefer for the upcoming election?,Option B,Central,36-50,Male,Bachelor's,Student
+R0298,2024-03-23,Which option do you prefer for the upcoming election?,Option B,South,36-50,Female,High School,Employed
+R0299,2024-02-14,Which option do you prefer for the upcoming election?,Option B,Central,36-50,Non-binary,High School,Self-employed
+R0300,2024-02-16,Which option do you prefer for the upcoming election?,Option A,West,18-25,Female,High School,Employed
+R0301,2024-02-16,Which option do you prefer for the upcoming election?,Option B,East,36-50,Male,High School,Student
+R0302,2024-03-09,Which option do you prefer for the upcoming election?,Option D,East,36-50,Non-binary,Master's,Student
+R0303,2024-03-10,Which option do you prefer for the upcoming election?,,North,36-50,Non-binary,High School,Student
+R0304,2024-03-09,Which option do you prefer for the upcoming election?,Option A,North,51+,Female,High School,Self-employed
+R0305,2024-03-30,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Female,Bachelor's,Unemployed
+R0306,2024-02-10,Which option do you prefer for the upcoming election?,Option A,West,18-25,Female,Master's,Self-employed
+R0307,2024-01-24,Which option do you prefer for the upcoming election?,Option A,West,18-25,Male,PhD,Employed
+R0308,2024-01-10,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,Bachelor's,Employed
+R0309,2024-03-22,Which option do you prefer for the upcoming election?,Option A,South,51+,Male,High School,Self-employed
+R0310,2024-01-15,Which option do you prefer for the upcoming election?,Option A,South,36-50,Male,Bachelor's,Self-employed
+R0311,2024-01-26,Which option do you prefer for the upcoming election?,Option B,South,36-50,Female,High School,Self-employed
+R0312,2024-03-27,Which option do you prefer for the upcoming election?,Option A,West,36-50,Female,Bachelor's,Unemployed
+R0313,2024-03-01,Which option do you prefer for the upcoming election?,Option D,South,18-25,Male,Bachelor's,Unemployed
+R0314,2024-02-02,Which option do you prefer for the upcoming election?,Option C,North,18-25,Female,Bachelor's,Employed
+R0315,2024-02-18,Which option do you prefer for the upcoming election?,Option C,North,51+,Male,Bachelor's,Employed
+R0316,2024-01-22,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Master's,Employed
+R0317,2024-03-28,Which option do you prefer for the upcoming election?,Option B,North,36-50,Male,Bachelor's,Student
+R0318,2024-01-21,Which option do you prefer for the upcoming election?,Option B,West,26-35,Non-binary,Master's,Employed
+R0319,2024-03-19,Which option do you prefer for the upcoming election?,Option A,West,26-35,Female,Master's,Employed
+R0320,2024-03-03,Which option do you prefer for the upcoming election?,Option C,West,51+,Male,Bachelor's,Unemployed
+R0321,2024-01-06,Which option do you prefer for the upcoming election?,Option B,South,18-25,Male,Master's,Employed
+R0322,2024-01-12,Which option do you prefer for the upcoming election?,Option A,West,26-35,Male,High School,Employed
+R0323,2024-01-09,Which option do you prefer for the upcoming election?,Option B,South,18-25,Male,Master's,Employed
+R0324,2024-01-03,Which option do you prefer for the upcoming election?,Option C,South,18-25,Female,Master's,Employed
+R0325,2024-02-01,Which option do you prefer for the upcoming election?,Option A,East,26-35,Non-binary,High School,Employed
+R0326,2024-01-09,Which option do you prefer for the upcoming election?,Option D,West,51+,Male,Master's,Unemployed
+R0327,2024-01-30,Which option do you prefer for the upcoming election?,Option A,West,36-50,Male,PhD,Employed
+R0328,2024-03-09,Which option do you prefer for the upcoming election?,Option A,Central,26-35,Non-binary,PhD,Student
+R0329,2024-03-01,Which option do you prefer for the upcoming election?,Option B,North,18-25,Male,Master's,Employed
+R0330,2024-01-11,Which option do you prefer for the upcoming election?,Option B,West,51+,Female,Bachelor's,Student
+R0331,2024-01-30,Which option do you prefer for the upcoming election?,Option C,South,51+,Male,Bachelor's,Employed
+R0332,2024-02-03,Which option do you prefer for the upcoming election?,Option B,South,18-25,Male,High School,Student
+R0333,2024-01-17,Which option do you prefer for the upcoming election?,Option B,North,36-50,Male,Bachelor's,Employed
+R0334,2024-02-03,Which option do you prefer for the upcoming election?,Option C,Central,36-50,Female,Bachelor's,Employed
+R0335,2024-01-01,Which option do you prefer for the upcoming election?,Option C,South,26-35,Male,Bachelor's,Employed
+R0336,2024-02-22,Which option do you prefer for the upcoming election?,Option A,East,36-50,Female,Bachelor's,Employed
+R0337,2024-03-22,Which option do you prefer for the upcoming election?,Option C,West,51+,Female,Master's,Self-employed
+R0338,2024-02-07,Which option do you prefer for the upcoming election?,Option B,East,51+,Female,Bachelor's,Employed
+R0339,2024-01-25,Which option do you prefer for the upcoming election?,Option B,West,26-35,Male,Bachelor's,Self-employed
+R0340,2024-01-19,Which option do you prefer for the upcoming election?,Option C,South,51+,Male,Master's,Unemployed
+R0341,2024-01-19,Which option do you prefer for the upcoming election?,Option B,North,51+,Non-binary,Bachelor's,Student
+R0342,2024-03-04,Which option do you prefer for the upcoming election?,Option B,West,18-25,Female,Bachelor's,Employed
+R0343,2024-02-10,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,Bachelor's,Employed
+R0344,2024-02-24,Which option do you prefer for the upcoming election?,Option B,West,18-25,Female,Master's,Employed
+R0345,2024-03-25,Which option do you prefer for the upcoming election?,Option C,Central,51+,Male,Bachelor's,Employed
+R0346,2024-03-01,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,Bachelor's,Employed
+R0347,2024-02-16,Which option do you prefer for the upcoming election?,Option B,North,36-50,Female,Master's,Student
+R0348,2024-01-22,Which option do you prefer for the upcoming election?,Option A,West,51+,Male,High School,Employed
+R0349,2024-01-28,Which option do you prefer for the upcoming election?,Option B,Central,36-50,Female,Master's,Employed
+R0350,2024-02-24,Which option do you prefer for the upcoming election?,Option C,West,26-35,Female,Bachelor's,Unemployed
+R0351,2024-01-12,Which option do you prefer for the upcoming election?,,North,26-35,Female,High School,Employed
+R0352,2024-02-09,Which option do you prefer for the upcoming election?,Option B,South,51+,Male,Bachelor's,Employed
+R0353,2024-03-02,Which option do you prefer for the upcoming election?,Option D,East,26-35,Male,Bachelor's,Employed
+R0354,2024-02-23,Which option do you prefer for the upcoming election?,Option A,East,51+,Male,Bachelor's,Employed
+R0355,2024-02-08,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,Bachelor's,Employed
+R0356,2024-02-14,Which option do you prefer for the upcoming election?,Option D,North,18-25,Female,High School,Employed
+R0357,2024-03-01,Which option do you prefer for the upcoming election?,Option A,North,26-35,Female,Master's,Student
+R0358,2024-03-27,Which option do you prefer for the upcoming election?,Option B,North,51+,Female,Master's,Employed
+R0359,2024-02-02,Which option do you prefer for the upcoming election?,Option B,Central,51+,Male,Master's,Employed
+R0360,2024-01-15,Which option do you prefer for the upcoming election?,Option A,West,26-35,Male,Bachelor's,Self-employed
+R0361,2024-01-10,Which option do you prefer for the upcoming election?,Option B,North,51+,Female,Bachelor's,Employed
+R0362,2024-01-02,Which option do you prefer for the upcoming election?,Option C,South,18-25,Male,High School,Employed
+R0363,2024-02-04,Which option do you prefer for the upcoming election?,Option B,Central,18-25,Female,High School,Employed
+R0364,2024-01-25,Which option do you prefer for the upcoming election?,Option B,East,26-35,Female,High School,Employed
+R0365,2024-03-13,Which option do you prefer for the upcoming election?,Option A,North,18-25,Male,Master's,Employed
+R0366,2024-02-13,Which option do you prefer for the upcoming election?,Option B,Central,51+,Female,High School,Employed
+R0367,2024-02-02,Which option do you prefer for the upcoming election?,Option B,North,26-35,Male,Bachelor's,Employed
+R0368,2024-01-20,Which option do you prefer for the upcoming election?,Option B,South,18-25,Male,High School,Self-employed
+R0369,2024-01-11,Which option do you prefer for the upcoming election?,Option A,East,18-25,Female,Bachelor's,Employed
+R0370,2024-03-05,Which option do you prefer for the upcoming election?,Option B,North,18-25,Female,Bachelor's,Self-employed
+R0371,2024-02-14,Which option do you prefer for the upcoming election?,Option C,West,18-25,Non-binary,High School,Unemployed
+R0372,2024-01-06,Which option do you prefer for the upcoming election?,Option B,West,18-25,Male,PhD,Employed
+R0373,2024-02-04,Which option do you prefer for the upcoming election?,Option B,East,18-25,Female,High School,Self-employed
+R0374,2024-01-17,Which option do you prefer for the upcoming election?,Option A,West,51+,Female,High School,Student
+R0375,2024-03-26,Which option do you prefer for the upcoming election?,Option B,Central,51+,Female,PhD,Employed
+R0376,2024-03-25,Which option do you prefer for the upcoming election?,Option A,Central,51+,Male,Bachelor's,Employed
+R0377,2024-01-13,Which option do you prefer for the upcoming election?,Option C,West,18-25,Female,Bachelor's,Employed
+R0378,2024-01-24,Which option do you prefer for the upcoming election?,Option B,South,26-35,Male,PhD,Self-employed
+R0379,2024-01-19,Which option do you prefer for the upcoming election?,Option C,South,26-35,Female,High School,Self-employed
+R0380,2024-01-11,Which option do you prefer for the upcoming election?,Option A,East,51+,Female,Bachelor's,Self-employed
+R0381,2024-01-19,Which option do you prefer for the upcoming election?,Option D,West,18-25,Female,Bachelor's,Employed
+R0382,2024-03-15,Which option do you prefer for the upcoming election?,Option B,South,51+,Female,Master's,Student
+R0383,2024-03-21,Which option do you prefer for the upcoming election?,Option A,North,36-50,Male,Bachelor's,Unemployed
+R0384,2024-01-07,Which option do you prefer for the upcoming election?,Option B,East,51+,Male,Bachelor's,Student
+R0385,2024-03-12,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Non-binary,High School,Employed
+R0386,2024-03-20,Which option do you prefer for the upcoming election?,Option A,East,26-35,Male,High School,Unemployed
+R0387,2024-01-21,Which option do you prefer for the upcoming election?,Option A,South,26-35,Female,Master's,Student
+R0388,2024-01-19,Which option do you prefer for the upcoming election?,Option A,West,36-50,Male,High School,Unemployed
+R0389,2024-01-25,Which option do you prefer for the upcoming election?,Option C,South,36-50,Female,Bachelor's,Employed
+R0390,2024-01-01,Which option do you prefer for the upcoming election?,Option B,Central,36-50,Male,Master's,Self-employed
+R0391,2024-01-04,Which option do you prefer for the upcoming election?,Option B,West,36-50,Male,Bachelor's,Student
+R0392,2024-03-01,Which option do you prefer for the upcoming election?,Option A,East,26-35,Male,Master's,Unemployed
+R0393,2024-01-16,Which option do you prefer for the upcoming election?,Option C,East,26-35,Male,High School,Employed
+R0394,2024-03-07,Which option do you prefer for the upcoming election?,Option D,West,18-25,Female,Bachelor's,Employed
+R0395,2024-01-13,Which option do you prefer for the upcoming election?,Option A,East,18-25,Female,Master's,Employed
+R0396,2024-02-01,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Male,Master's,Employed
+R0397,2024-01-28,Which option do you prefer for the upcoming election?,Option A,South,36-50,Female,High School,Student
+R0398,2024-01-08,Which option do you prefer for the upcoming election?,Option D,West,26-35,Male,Bachelor's,Employed
+R0399,2024-03-16,Which option do you prefer for the upcoming election?,Option C,South,26-35,Male,Master's,Self-employed
+R0400,2024-02-07,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,Bachelor's,Employed
+R0401,2024-01-29,Which option do you prefer for the upcoming election?,Option C,North,18-25,Female,High School,Employed
+R0402,2024-03-22,Which option do you prefer for the upcoming election?,Option B,West,18-25,Male,Bachelor's,Self-employed
+R0403,2024-02-27,Which option do you prefer for the upcoming election?,Option A,East,26-35,Female,Bachelor's,Unemployed
+R0404,2024-03-25,Which option do you prefer for the upcoming election?,Option A,South,36-50,Female,Master's,Student
+R0405,2024-01-25,Which option do you prefer for the upcoming election?,,Central,51+,Male,Bachelor's,Employed
+R0406,2024-02-17,Which option do you prefer for the upcoming election?,Option B,North,18-25,Female,Bachelor's,Employed
+R0407,2024-03-11,Which option do you prefer for the upcoming election?,Option C,West,51+,Male,High School,Student
+R0408,2024-02-07,Which option do you prefer for the upcoming election?,Option B,North,18-25,Female,Bachelor's,Student
+R0409,2024-01-09,Which option do you prefer for the upcoming election?,Option A,East,36-50,Female,Master's,Self-employed
+R0410,2024-02-23,Which option do you prefer for the upcoming election?,Option C,West,36-50,Male,Bachelor's,Employed
+R0411,2024-01-10,Which option do you prefer for the upcoming election?,Option A,North,51+,Male,Bachelor's,Employed
+R0412,2024-03-26,Which option do you prefer for the upcoming election?,Option B,Central,26-35,Female,High School,Employed
+R0413,2024-02-23,Which option do you prefer for the upcoming election?,Option B,North,18-25,Male,Bachelor's,Employed
+R0414,2024-03-24,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,PhD,Employed
+R0415,2024-02-11,Which option do you prefer for the upcoming election?,Option C,West,26-35,Male,High School,Self-employed
+R0416,2024-01-25,Which option do you prefer for the upcoming election?,Option B,East,26-35,Male,High School,Employed
+R0417,2024-03-17,Which option do you prefer for the upcoming election?,Option B,North,36-50,Male,Bachelor's,Student
+R0418,2024-03-12,Which option do you prefer for the upcoming election?,Option C,West,51+,Male,Master's,Self-employed
+R0419,2024-01-28,Which option do you prefer for the upcoming election?,Option A,Central,26-35,Male,High School,Employed
+R0420,2024-01-05,Which option do you prefer for the upcoming election?,Option D,Central,36-50,Male,High School,Unemployed
+R0421,2024-03-11,Which option do you prefer for the upcoming election?,Option A,West,26-35,Non-binary,High School,Employed
+R0422,2024-03-12,Which option do you prefer for the upcoming election?,Option D,South,51+,Female,Bachelor's,Employed
+R0423,2024-03-28,Which option do you prefer for the upcoming election?,Option D,West,26-35,Female,Bachelor's,Employed
+R0424,2024-03-24,Which option do you prefer for the upcoming election?,Option D,West,26-35,Male,Bachelor's,Student
+R0425,2024-03-01,Which option do you prefer for the upcoming election?,Option C,West,18-25,Male,Bachelor's,Employed
+R0426,2024-03-14,Which option do you prefer for the upcoming election?,Option B,South,36-50,Male,Bachelor's,Self-employed
+R0427,2024-02-02,Which option do you prefer for the upcoming election?,Option D,Central,26-35,Female,Master's,Employed
+R0428,2024-01-16,Which option do you prefer for the upcoming election?,Option D,North,51+,Female,Master's,Employed
+R0429,2024-01-11,Which option do you prefer for the upcoming election?,Option B,West,51+,Non-binary,Master's,Unemployed
+R0430,2024-01-04,Which option do you prefer for the upcoming election?,Option D,Central,26-35,Female,High School,Student
+R0431,2024-03-06,Which option do you prefer for the upcoming election?,Option B,West,36-50,Female,PhD,Unemployed
+R0432,2024-03-05,Which option do you prefer for the upcoming election?,Option A,South,36-50,Male,Bachelor's,Student
+R0433,2024-01-09,Which option do you prefer for the upcoming election?,Option B,East,36-50,Male,Bachelor's,Self-employed
+R0434,2024-03-28,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Male,PhD,Employed
+R0435,2024-03-07,Which option do you prefer for the upcoming election?,Option B,South,26-35,Female,Master's,Employed
+R0436,2024-01-01,Which option do you prefer for the upcoming election?,Option D,West,36-50,Male,Bachelor's,Employed
+R0437,2024-03-30,Which option do you prefer for the upcoming election?,Option D,North,36-50,Male,Bachelor's,Self-employed
+R0438,2024-01-01,Which option do you prefer for the upcoming election?,Option B,North,36-50,Male,Bachelor's,Employed
+R0439,2024-01-05,Which option do you prefer for the upcoming election?,Option C,South,51+,Non-binary,High School,Self-employed
+R0440,2024-01-11,Which option do you prefer for the upcoming election?,Option B,South,51+,Male,Bachelor's,Employed
+R0441,2024-03-11,Which option do you prefer for the upcoming election?,Option B,East,26-35,Male,Master's,Employed
+R0442,2024-01-08,Which option do you prefer for the upcoming election?,Option B,South,51+,Male,Master's,Employed
+R0443,2024-01-15,Which option do you prefer for the upcoming election?,Option B,North,26-35,Female,High School,Student
+R0444,2024-01-24,Which option do you prefer for the upcoming election?,Option B,East,26-35,Male,Master's,Self-employed
+R0445,2024-03-09,Which option do you prefer for the upcoming election?,Option A,South,51+,Female,Bachelor's,Employed
+R0446,2024-01-10,Which option do you prefer for the upcoming election?,Option A,Central,36-50,Male,Bachelor's,Employed
+R0447,2024-02-07,Which option do you prefer for the upcoming election?,Option D,Central,26-35,Male,High School,Student
+R0448,2024-03-02,Which option do you prefer for the upcoming election?,Option A,East,36-50,Female,Master's,Employed
+R0449,2024-02-08,Which option do you prefer for the upcoming election?,Option D,Central,36-50,Female,High School,Employed
+R0450,2024-02-01,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Male,Bachelor's,Employed
+R0451,2024-01-17,Which option do you prefer for the upcoming election?,Option B,East,26-35,Female,Bachelor's,Student
+R0452,2024-03-03,Which option do you prefer for the upcoming election?,Option C,West,51+,Female,High School,Student
+R0453,2024-02-08,Which option do you prefer for the upcoming election?,Option A,North,18-25,Non-binary,Bachelor's,Employed
+R0454,2024-02-03,Which option do you prefer for the upcoming election?,Option B,East,36-50,Male,High School,Self-employed
+R0455,2024-03-21,Which option do you prefer for the upcoming election?,Option A,East,18-25,Male,High School,Student
+R0456,2024-01-15,Which option do you prefer for the upcoming election?,Option A,North,36-50,Female,PhD,Employed
+R0457,2024-03-18,Which option do you prefer for the upcoming election?,Option C,West,36-50,Female,Bachelor's,Employed
+R0458,2024-01-06,Which option do you prefer for the upcoming election?,Option B,South,36-50,Female,High School,Student
+R0459,2024-01-13,Which option do you prefer for the upcoming election?,Option B,North,26-35,Female,Bachelor's,Employed
+R0460,2024-02-13,Which option do you prefer for the upcoming election?,Option C,East,51+,Male,Master's,Self-employed
+R0461,2024-03-07,Which option do you prefer for the upcoming election?,Option B,South,51+,Female,Master's,Employed
+R0462,2024-01-12,Which option do you prefer for the upcoming election?,Option A,South,51+,Female,High School,Student
+R0463,2024-03-18,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Male,Bachelor's,Employed
+R0464,2024-03-09,Which option do you prefer for the upcoming election?,Option C,Central,18-25,Female,Bachelor's,Employed
+R0465,2024-03-19,Which option do you prefer for the upcoming election?,Option C,East,18-25,Male,PhD,Student
+R0466,2024-02-26,Which option do you prefer for the upcoming election?,Option D,East,36-50,Female,PhD,Employed
+R0467,2024-02-10,Which option do you prefer for the upcoming election?,Option D,South,26-35,Non-binary,High School,Employed
+R0468,2024-01-03,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Female,High School,Employed
+R0469,2024-01-26,Which option do you prefer for the upcoming election?,Option C,South,26-35,Female,Bachelor's,Employed
+R0470,2024-01-20,Which option do you prefer for the upcoming election?,Option B,East,36-50,Male,PhD,Employed
+R0471,2024-01-06,Which option do you prefer for the upcoming election?,Option C,West,26-35,Male,Bachelor's,Student
+R0472,2024-01-02,Which option do you prefer for the upcoming election?,Option A,East,36-50,Female,Bachelor's,Employed
+R0473,2024-02-20,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Male,Bachelor's,Student
+R0474,2024-02-14,Which option do you prefer for the upcoming election?,Option B,Central,18-25,Female,Master's,Student
+R0475,2024-02-15,Which option do you prefer for the upcoming election?,Option C,West,51+,Female,PhD,Employed
+R0476,2024-02-19,Which option do you prefer for the upcoming election?,Option C,South,36-50,Male,Bachelor's,Employed
+R0477,2024-03-13,Which option do you prefer for the upcoming election?,Option C,East,51+,Male,Master's,Self-employed
+R0478,2024-03-24,Which option do you prefer for the upcoming election?,Option A,East,18-25,Female,Bachelor's,Student
+R0479,2024-03-03,Which option do you prefer for the upcoming election?,Option A,Central,18-25,Male,Master's,Student
+R0480,2024-03-07,Which option do you prefer for the upcoming election?,Option B,North,18-25,Male,High School,Employed
+R0481,2024-01-19,Which option do you prefer for the upcoming election?,Option C,South,36-50,Female,Bachelor's,Employed
+R0482,2024-01-08,Which option do you prefer for the upcoming election?,Option C,West,51+,Female,High School,Student
+R0483,2024-02-29,Which option do you prefer for the upcoming election?,Option A,East,36-50,Male,High School,Self-employed
+R0484,2024-02-27,Which option do you prefer for the upcoming election?,Option B,West,51+,Female,High School,Self-employed
+R0485,2024-03-19,Which option do you prefer for the upcoming election?,Option A,East,36-50,Female,Bachelor's,Employed
+R0486,2024-03-26,Which option do you prefer for the upcoming election?,Option A,West,26-35,Female,Master's,Student
+R0487,2024-02-07,Which option do you prefer for the upcoming election?,Option C,Central,26-35,Male,High School,Employed
+R0488,2024-01-21,Which option do you prefer for the upcoming election?,Option C,South,26-35,Female,High School,Employed
+R0489,2024-03-08,Which option do you prefer for the upcoming election?,Option A,South,51+,Female,Bachelor's,Employed
+R0490,2024-02-21,Which option do you prefer for the upcoming election?,Option B,West,18-25,Female,Bachelor's,Employed
+R0491,2024-02-18,Which option do you prefer for the upcoming election?,Option B,North,51+,Male,Master's,Self-employed
+R0492,2024-02-04,Which option do you prefer for the upcoming election?,Option A,South,26-35,Male,Bachelor's,Unemployed
+R0493,2024-02-26,Which option do you prefer for the upcoming election?,Option C,North,51+,Female,Master's,Self-employed
+R0494,2024-01-23,Which option do you prefer for the upcoming election?,Option A,North,18-25,Female,High School,Student
+R0495,2024-01-22,Which option do you prefer for the upcoming election?,Option B,Central,18-25,Male,Master's,Student
+R0496,2024-02-05,Which option do you prefer for the upcoming election?,Option A,North,26-35,Male,Master's,Self-employed
+R0497,2024-01-19,Which option do you prefer for the upcoming election?,Option B,South,26-35,Female,High School,Employed
+R0498,2024-03-07,Which option do you prefer for the upcoming election?,Option D,West,36-50,Non-binary,Bachelor's,Self-employed
+R0499,2024-01-01,Which option do you prefer for the upcoming election?,Option B,South,26-35,Female,High School,Employed
+R0500,2024-02-08,Which option do you prefer for the upcoming election?,Option D,South,18-25,Female,Bachelor's,Employed
